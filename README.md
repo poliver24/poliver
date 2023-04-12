@@ -5,7 +5,7 @@
   poliver.co.uk
 </h1>
 <p align="center">
-  Portfolio Site <a href="https://poliver.co.uk" target="_blank">poliver.co.uk</a> Forked from <a href="brittanychiang.com" target="_blank">brittanychiang.com</a>/. Built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  Portfolio Site <a href="https://poliver.co.uk" target="_blank">poliver.co.uk</a> Forked from <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a>/. Built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 ## 🛠 Installation & Set Up
