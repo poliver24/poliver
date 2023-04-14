@@ -1,12 +1,13 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2021-01-01'
+title: 'Associate Software Developer'
+company: 'Immunocore'
+location: 'Oxford, UK'
+range: 'Jan 2021 - Jun 2022'
+url: 'https://www.immunocore.com/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Collaborated with a team of 3 to build an in-house Cell Tracking Database, effectively organizing user data and modernizing legacy systems.
+- Managed the overhaul of 10+ years of legacy data, seamlessly integrating it into the new database structure.
+- Applied analytical problem-solving skills to enhance data engineering pipelines, improving efficiency and reliability.
+- Streamlined RNASeq processing, resulting in a 10% reduction in processing time and increased productivity.

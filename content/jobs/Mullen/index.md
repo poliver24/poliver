@@ -1,12 +1,15 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2022-10-01'
+title: 'C.T.O'
+company: 'IdeaAtlas'
+location: 'Oxford, UK'
+range: 'November 2022 - Current'
+url: 'https://ideaatlas.com/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Leading a tech startup focused on networked innovation
+- Creating innovative solutions to promote social good through technology
+- Spearheading strategic decisions related to product development, infrastructure, solution architecture, and digital strategy.
+- Collaborating with cross-functional teams to ensure alignment of technical and business objectives.
+- Mentoring and guiding the technical teams to foster a culture of continuous improvement and innovation.
+- Engaging with investors to foster positive relationships and growth opportunities.

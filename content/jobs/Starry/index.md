@@ -1,12 +1,14 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2022-06-01'
+title: 'Software Developer'
+company: 'Immunocore'
+location: 'Oxford, UK'
+range: 'June - November 2022'
+url: 'https://www.immunocore.com/'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Built an MVP for an in-house Tissue Tracking Database from the ground up using Django & React, liaising with stakeholders to determine system design requirements.
+- Worked closely with team members to continue developing the in-house Cell Tracking Database, setting up a frontend testing environment with Jest and React Testing Library.
+- Provided ongoing maintenance support and implemented enhancements to improve system performance and user experience.
+- Mentored and onboarded new team members, helping them assimilate into the team environment and address technical challenges.
+- Co-Founded and participated in a company-wide "Code Club" initiative to upskill colleagues and foster a culture of continuous learning.
