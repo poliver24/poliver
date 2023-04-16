@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript', 'React', 'Python', 'Django', 'Docker', 'Cloud Computing'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,33 +135,31 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! I'm Patrick, a CTO and Full-Stack Developer with a passion for crafting
+              innovative and impactful solutions on the web. My journey in web development started
+              when I attended <a href="https://makers.tech/">Makers Academy</a>, an intensive and
+              selective software bootcamp, where I honed my skills in Python, TypeScript, and
+              JavaScript.
             </p>
-
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              After completing the bootcamp, I joined a{' '}
+              <a href="https://www.immunocore.com/">biotech company</a> where I gained invaluable
+              experience working in a fast-paced and agile team. This exposure has allowed me to
+              excel in adapting to dynamic settings, working autonomously, and delivering
+              high-quality results.
             </p>
-
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              As the CTO of <a href="https://ideaatlas.com/">IdeaAtlas</a>, I currently lead a team
+              dedicated to developing accessible, user-centric solutions driven by networked
+              innovation. I am committed to using technology for social good and constantly strive
+              to create inclusive, efficient, and scalable products that cater to the ever-changing
+              needs of users.
             </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>
+              In addition to my work, I enjoy sharing my knowledge with others through tutoring and
+              staying updated on the latest advancements in the tech world.
+            </p>
+            <p>Here are a few technologies I've been working with recently:</p>
           </div>
 
           <ul className="skills-list">
